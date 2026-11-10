@@ -1,0 +1,4 @@
+python: 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]
+exe: C:\Users\khan\AppData\Local\Programs\Python\Python314\python.exe
+PIL_OK: 13.0.0
+pip: pip 26.2.2 from C:\Users\khan\AppData\Local\Programs\Python\Python314\Lib\site-packages\pip (python 3.14)

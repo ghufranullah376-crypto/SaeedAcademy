@@ -1,0 +1,21 @@
+OK  static/images/logo.png                     fmt=PNG   1024x682   mode=RGB   bytes=739893
+OK  static/images/academy/gallery1.jpg         fmt=JPEG  590x443    mode=RGB   bytes=87270
+OK  static/images/academy/gallery2.jpg         fmt=JPEG  720x540    mode=RGB   bytes=37170
+OK  static/images/academy/gallery3.jpg         fmt=JPEG  526x526    mode=RGB   bytes=76535
+OK  static/images/academy/gallery4.jpg         fmt=JPEG  512x640    mode=RGB   bytes=48452
+OK  static/images/academy/gallery5.jpg         fmt=JPEG  768x1024   mode=RGB   bytes=215356
+OK  static/images/academy/gallery6.jpg         fmt=JPEG  526x701    mode=RGB   bytes=54902
+OK  static/images/academy/classroom.jpg        fmt=JPEG  768x1024   mode=RGB   bytes=191298
+OK  static/images/academy/ceo.jpg              fmt=JPEG  512x640    mode=RGB   bytes=48452
+
+9/9 valid image files
+--- magic bytes ---
+static/images/logo.png                     PNG  89504e47
+static/images/academy/gallery1.jpg         JPEG  ffd8ffe0
+static/images/academy/gallery2.jpg         JPEG  ffd8ffe0
+static/images/academy/gallery3.jpg         JPEG  ffd8ffe0
+static/images/academy/gallery4.jpg         JPEG  ffd8ffe0
+static/images/academy/gallery5.jpg         JPEG  ffd8ffe0
+static/images/academy/gallery6.jpg         JPEG  ffd8ffe0
+static/images/academy/classroom.jpg        JPEG  ffd8ffe0
+static/images/academy/ceo.jpg              JPEG  ffd8ffe0

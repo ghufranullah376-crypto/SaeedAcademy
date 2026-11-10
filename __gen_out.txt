@@ -1,0 +1,11 @@
+Created: static\images\logo.png
+Created: static\images\academy\gallery1.jpg
+Created: static\images\academy\gallery2.jpg
+Created: static\images\academy\gallery3.jpg
+Created: static\images\academy\gallery4.jpg
+Created: static\images\academy\gallery5.jpg
+Created: static\images\academy\gallery6.jpg
+Created: static\images\academy\classroom.jpg
+Created: static\images\academy\ceo.jpg
+
+All placeholder images generated.
